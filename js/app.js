@@ -31,12 +31,12 @@ Test this function by hand in the console to get it working, and when you think 
 
 // // Write your code here
 // function multiply(a, b) { //eslint-disable-line
-// let mySum = a * b;
-//   let myString = `The product of ${a} and ${b} is ${mySum}.`;
+let mySum = a * b;
+  let myString = `The product of ${a} and ${b} is ${mySum}.`;
 
-//   return[mySum, myString];
+  return[mySum, myString];
 
-// }
+}
 
 
 
